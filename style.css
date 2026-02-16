@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+form {
+    margin: 20px;
+}
+
+input, select, button {
+    padding: 8px;
+    margin: 5px;
+}
+
+li {
+    background: white;
+    margin: 5px;
+    padding: 10px;
+    list-style: none;
+}
